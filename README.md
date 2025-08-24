@@ -11,10 +11,10 @@ Skills Demonstrated:
 - Analytical Thinking: Translating business questions into data-driven answers
 - Documentation: Clear, step-by-step reporting for teaching and portfolio presentation
 Use Cases:
-    This project is ideal for:
-      - Learners seeking real-world SQL examples
-      - Recruiters evaluating SQL and data storytelling skills
-      - Freelance clients looking for clean, actionable reporting
+  This project is ideal for:
+  - Learners seeking real-world SQL examples
+  - Recruiters evaluating SQL and data storytelling skills
+  - Freelance clients looking for clean, actionable reporting
 
 Feel free to explore the queries, review the report, or reach out with feedback.
 Let’s turn data into decisions!
