@@ -1,5 +1,5 @@
 # retail_sales_analysis
-Retail Sales Analysis — SQL Portfolio Project
+Retail Sales Analysis — SQL Project
 Welcome to my retail sales analysis project! This repository showcases a complete SQL workflow—from raw data preparation to business-driven insights—using a fictional retail dataset.
 What’s Inside:
 - Data Cleaning: Duplicate and null value checks to ensure data integrity
